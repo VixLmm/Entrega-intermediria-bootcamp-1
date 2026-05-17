@@ -4,4 +4,3 @@
 - Portfolio.pdf -> Portfolio feito para a entrega inicial de bootcamp-1
 - [Google sites feito para a entrega inicial de bootcamp-1](https://sites.google.com/view/lucasmarottientregasite/in%C3%ADcio)
 - [![Linkedin](https://img.shields.io/badge/Linkedim-007BFF?stColor=white)](https://www.linkedin.com/in/lucas-marotti-84b6373ab/)
-- 
