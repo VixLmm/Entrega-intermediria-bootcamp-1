@@ -1,1 +1,1 @@
-# Entrega-intermedi-ria-bootcamp-1
+# Entrega-intermediria-bootcamp-1
