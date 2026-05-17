@@ -2,4 +2,4 @@
 - Projetos Pessoais 📁 -> Diretório onde possui códigos de automazação em python
 - Currículo.pdf -> Currículo feito para a entrega inicial de bootcamp-1
 - Portfolio.pdf -> Portfolio feito para a entrega inicial de bootcamp-1
-[Google sites feito para a entrega inicial de bootcamp-1](https://sites.google.com/view/lucasmarottientregasite/in%C3%ADcio)
+- [Google sites feito para a entrega inicial de bootcamp-1](https://sites.google.com/view/lucasmarottientregasite/in%C3%ADcio)
